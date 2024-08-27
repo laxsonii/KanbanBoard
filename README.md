@@ -18,3 +18,7 @@ user card
 movable cards from panel
 ![image](https://github.com/laxsonii/KanbanBoard/assets/164679238/44c5f982-46ae-4d96-a466-f704c509d708)
 
+
+Deployed App-  https://laxsonii.github.io/KanbanBoard/
+
+
